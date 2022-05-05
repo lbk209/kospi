@@ -35,7 +35,7 @@ GBM은 수익이 발생한 매매 비율이 Random 보다 크지만, 상대적�
 | win rate | 0.66 | 0.58 |
 | return (simple rate) | 107% | 368% |
 
-매매당 수익률은 GBM이 약간 더 우수해 보이지만 편차가 더 커서 어느 정도 우수한지 판단하기 어렵다.
+매매당 수익률은 GBM이 약간 더 우수해 보이지만 편차가 커서 어느 정도 우수한지 판단하기 어렵다.
 
 ![return_histogram]({{ site.baseurl }}/assets/2022-05-03-ic_return_hist.png)
 
