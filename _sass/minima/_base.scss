@@ -256,6 +256,7 @@ pre {
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
+  table-layout: fixed;
   text-align: $table-text-align;
   color: $table-text-color;
   border-collapse: collapse;
