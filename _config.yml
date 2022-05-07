@@ -5,7 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   A new post will be created when KOSPI is predicted to rise next month.
   The Prediction is made by a gradient boosting machine fit on historical data
-  such as KOSPI, commodities and interest rates.
+  of stocks in KRX, commodities and interest rates.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
