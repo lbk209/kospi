@@ -8,4 +8,4 @@ permalink: /about/
 
 하락이나 비율은 예측하지 않음.
 
-코스피와 일부 경제 지표의 일일 데이터를 사용하여 기계학습(gradient boosting)을 통해 예측.
+한국거래소 종목들과 일부 경제 지표의 일일 데이터를 사용하여 기계학습(gradient boosting)을 통해 예측.
