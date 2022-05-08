@@ -39,11 +39,11 @@ GBM은 상대적으로 매우 적은 매수 횟수(적은 투자액)로 인하�
 
 매매당 수익률은 GBM이 더 우수한 것으로 보인다.
 
-![return_histogram]({{ site.baseurl }}/assets/2022-05-06-ic_return_hist.png)
+![return_histogram]({{ site.baseurl }}/assets/2022-05-06-ic_return_hist_v3.png)
 
 베이즈 추론을 통해 매매당 수익률을 비교해보면 GBM의 평균 및 변동성 대비 수익률 모두 Random 보다 유의미하게 큰 것을 확인할 수 있다. (베이즈 추론 참고: [Bayesian estimation supersedes the t-test], John Kruschke, Journal of Experimental Psychology, 2012.)
 
-![return_bayesian]({{ site.baseurl }}/assets/2022-05-06-bayesian_returns2_all_220507v2.png)
+![return_bayesian]({{ site.baseurl }}/assets/2022-05-06-bayesian_returns2_all_220507_v3.png)
 
 [Bayesian estimation supersedes the t-test]: https://psycnet.apa.org/record/2012-18082-001 "Bayesian estimation supersedes the t-test"
 
